@@ -1,0 +1,4 @@
+name: SimplyBetter
+version: '${project.version}'
+main: simple.simplybetter.SimplyBetter
+api-version: '1.20'

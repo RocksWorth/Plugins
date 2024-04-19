@@ -1,0 +1,4 @@
+name: SimplyBetter
+version: '1.0-SNAPSHOT'
+main: simple.simplybetter.SimplyBetter
+api-version: '1.20'
